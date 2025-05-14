@@ -1,6 +1,6 @@
 title: tomlinsw9207's homepage
 description: Lee's Home on GitHub Pages
 github_username: tomlinsw9207
-remote_theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/midnight@v0.2.0
 plugins:
 - jekyll-theme-midnight # add this line to the plugins list if you already have one, look up git hub themes
